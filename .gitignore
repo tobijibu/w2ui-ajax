@@ -1,0 +1,9 @@
+.settings/
+.buildpath
+.project
+*tags
+.DS_Store
+Thumbs.db
+log/
+dist/
+node_modules/
